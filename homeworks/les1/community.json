@@ -1,0 +1,1 @@
+{"error": {"error_code": 5, "error_msg": "User authorization failed: access_token was given to another ip address.", "request_params": [{"key": "extended", "value": "1"}, {"key": "user_id", "value": "102309248"}, {"key": "v", "value": "5.52"}, {"key": "method", "value": "groups.get"}, {"key": "oauth", "value": "1"}]}}
